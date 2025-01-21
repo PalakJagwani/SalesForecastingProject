@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to predict future sales for a company based on historical sales data. It utilizes machine learning models to provide accurate forecasts, helping businesses make informed decisions regarding inventory management, resource allocation, and sales strategies.
+This project aims to predict future sales for a company based on historical sales data. It utilizes machine learning models to provide accurate forecasts, helping businesses make informed decisions.
 
 ## Technologies Used
 - Python
