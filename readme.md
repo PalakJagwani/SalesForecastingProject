@@ -48,7 +48,7 @@ Output Data :
 1. Clone this repository:
 
    ```
-   git clone https://github.com/PalakJagwani/MovieReviewSentimentAnalysis.git
+   git clone https://github.com/PalakJagwani/SalesForecastingProject.git
    ```
 
 2. Install the required dependencies:
